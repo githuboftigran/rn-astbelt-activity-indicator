@@ -1,0 +1,28 @@
+{
+  "name": "rn-astbelt-activity-indicator",
+  "version": "0.0.1",
+  "author": "mail.of.tigran@gmail.com",
+  "description": "A native widget which looks like a broadcast station. Circle of 'broadcast waves' appear when 'broadcasting' property is set to true.",
+  "homepage": "https://github.com/githuboftigran/RNBroadcastView",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "custom",
+    "react-component",
+    "react-native-component",
+    "react-native",
+    "android",
+    "ios"
+  ],
+  "repository" : {
+    "type": "git",
+    "utl": "https://github.com/githuboftigran/RNBroadcastView.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
