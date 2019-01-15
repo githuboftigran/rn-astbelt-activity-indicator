@@ -35,6 +35,6 @@ import AstbeltActivityIndicator from 'rn-astbelt-activity-indicator';
 
 | Property |      Description      | Type | Default Value |
 |----------|-----------------------|------|:-------------:|
-| progress | An infinite "broadcast wave" animation is shown if true | Integer | **0** |
+| progress | Progress segment degrees / 360 | Number<br/>Value should be in range **[0, 1]** | **0** |
 | blankColor |  Color of blank dots | String<br/>(**#RRGGBB** or **#AARRGGBB**) | **#ffffff** |
 | progressColor |  Color of dots in progress segment | String<br/>(**#RRGGBB** or **#AARRGGBB**) | **#ff60ad** |
